@@ -37,7 +37,6 @@ sections:
           - label: Learn More
             url: /features
       - title: Cool Feature of Your Services
-        image: images/feature3.png
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
